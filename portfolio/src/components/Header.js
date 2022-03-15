@@ -9,7 +9,7 @@ const Header = () => {
 
   useEffect(() => {
     const typed = new Typed(el.current, {
-      strings: ["Frontend developper", "Backend developper"],
+      strings: ["Frontend developer", "Backend developer"],
       startDelay: 300,
       typeSpeed: 120,
       backSpeed: 100,
